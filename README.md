@@ -1,2 +1,2 @@
 # Microsoft-Engage-submission
-Video calling web application with chat 
+Video calling chat application using Django and Agora Video SDK for real time communication deployed on heroku. It has a small functional person-to-person messenger using REST API and WebSockets for a person to chat with other users during the video call. I have used pusher presence channels to show which clients are online and iframes for integration. I have used Vue.JS, HTML, CSS and Bootstrap for frontend.
